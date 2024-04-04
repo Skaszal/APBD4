@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
       "projectName": "LegacyApp.Tests",
-      "projectPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
+      "projectPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
       "packagesPath": "C:\\Users\\mun88\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -952,8 +952,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj"
+            "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }

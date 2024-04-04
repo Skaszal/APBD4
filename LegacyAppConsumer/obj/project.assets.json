@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "projectName": "LegacyAppConsumer",
-      "projectPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "packagesPath": "C:\\Users\\mun88\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyAppConsumer\\obj\\",
+      "outputPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyAppConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mun88\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj"
+            "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }

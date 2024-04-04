@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QDm3FM1hafuKbNI18SlAGktKZjtqcrWN/sKpzuowsJLo4SNT6r3ikN71eBvzAfizDjPXO8QkeehqlcJV5ht2Jw==",
+  "dgSpecHash": "lerKzukq7FxNoQPUvSyYZVIhRhiPkv9gBqawlX0CgLy27ruHPDJmJ+aepJ6Nwzn7y2rIwa5QRPslBFgrfFJB6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp.Tests\\LegacyApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mun88\\.nuget\\packages\\jetbrains.annotations\\2023.3.0\\jetbrains.annotations.2023.3.0.nupkg.sha512",
     "C:\\Users\\mun88\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectUniqueName": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\LegacyApp.csproj",
       "packagesPath": "C:\\Users\\mun88\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mun88\\Desktop\\zadanie\\LegacyApp\\obj\\",
+      "outputPath": "C:\\Users\\mun88\\Desktop\\APBD4\\LegacyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mun88\\AppData\\Roaming\\NuGet\\NuGet.Config"
